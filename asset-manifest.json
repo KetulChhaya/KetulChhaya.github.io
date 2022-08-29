@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/KetulChhaya.github.io/static/css/main.54872e42.css",
+    "main.js": "/KetulChhaya.github.io/static/js/main.dd4b7da9.js",
+    "static/media/cover.jpg": "/KetulChhaya.github.io/static/media/cover.c64b82341bb66b7595f4.jpg",
+    "static/media/profile-k2l.png": "/KetulChhaya.github.io/static/media/profile-k2l.b045e8e253f1f6aa16c4.png",
+    "static/media/about04.png": "/KetulChhaya.github.io/static/media/about04.43f4402bcbfd229aaddb.png",
+    "static/media/about01.png": "/KetulChhaya.github.io/static/media/about01.7700822e1b2930f9b30a.png",
+    "static/media/about02.png": "/KetulChhaya.github.io/static/media/about02.87c97f2816e1890b19df.png",
+    "static/media/dark-logo.png": "/KetulChhaya.github.io/static/media/dark-logo.89e20dc250b382823d2b.png",
+    "static/media/profile.png": "/KetulChhaya.github.io/static/media/profile.204e05bff83634a28d20.png",
+    "static/media/about03.png": "/KetulChhaya.github.io/static/media/about03.e1f6a86aeb9b25f3a287.png",
+    "static/media/bgWhite.png": "/KetulChhaya.github.io/static/media/bgWhite.9cf5ab3b0ed3189275b0.png",
+    "static/media/light-logo.png": "/KetulChhaya.github.io/static/media/light-logo.08f043c471d259bcff0a.png",
+    "static/media/bg-dark-3.png": "/KetulChhaya.github.io/static/media/bg-dark-3.ea9e0a9fc9fbebdb6edc.png",
+    "static/media/spotify.png": "/KetulChhaya.github.io/static/media/spotify.c8cc9e97ac0a2f3b923c.png",
+    "static/media/bg-light-3.png": "/KetulChhaya.github.io/static/media/bg-light-3.cfd7b5ec1e70b4dac830.png",
+    "static/media/nb.png": "/KetulChhaya.github.io/static/media/nb.4c25e8a978bffc341565.png",
+    "static/media/adidas.png": "/KetulChhaya.github.io/static/media/adidas.20ed5936f3a5901dea21.png",
+    "index.html": "/KetulChhaya.github.io/index.html",
+    "static/media/circle.svg": "/KetulChhaya.github.io/static/media/circle.0641014cfe0df663d8d178042ac86212.svg",
+    "main.54872e42.css.map": "/KetulChhaya.github.io/static/css/main.54872e42.css.map",
+    "main.dd4b7da9.js.map": "/KetulChhaya.github.io/static/js/main.dd4b7da9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54872e42.css",
+    "static/js/main.dd4b7da9.js"
+  ]
+}
